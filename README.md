@@ -1,1 +1,6 @@
 # VBAOfWallStreet
+  The purpose of this module was using VBA to analyze the stock market. Using this we are able to define and figure out the changes that the stocks did over the year. By running the script we can see which ones preformed the best and which ones preformed the worst. The script also organizes the tickers that the worksheet gives us. 
+  ## Results
+   The results of the worksheet shows up that a majority of the stocks didn't preform well. All but two of the stocks showed a positive return for the year a majority of them did not. We can see this by the tickers that are highlighted red and the tickers that are highlighted green are the ones that had a positive return. 
+  ###### Summary
+   There were a few disadvantes that I ran into. To me I did find it difficult refactoring the code and coming up with solutions to fix it. The overcome this I did google what I could possibly be doing wrong and how I could go about fixing this. Going back into the modules also was a great help for me as well. Retwatching vidoe form the modules and even going back and seeing what we did in class from our activites was a great help as well. Overall I did have some dificulties with this challenge but overall using what I learned and the techniques did help me overcome them. 
