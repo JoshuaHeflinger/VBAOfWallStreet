@@ -5,4 +5,4 @@
 ## When we check the screenshots we see that there are many differences between the 2017 results and the 2018 results. For example we see a significant decrease in the total daily volume and the return for the majority of the stocks. Another thing that we notice is that only 2 of the stocks saw a positive return in the both the years 2017 and 2018. Those two stocks being ENPH and RUN. Something else that we notice when we run the code is that it comes up with the results in only 0.08984375 seconds. 
 
 # Summary 
-## There are some advantages and disadvantes when it comes to refactoring code. One major one that I would say is a disadvantge is making it work for a new set up of data that we have. One advantage would be already having a starting point to work on. 
+## There are some advantages and disadvantes when it comes to refactoring code. One major one that I would say is a disadvantge is making it work for a new set up of data that we have. One advantage would be already having a starting point to work on. A key difference between the original and the refactored code would be how all of the results are color coded based on their preformance of the year. 
